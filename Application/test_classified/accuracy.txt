@@ -1,0 +1,6 @@
+TN: 1366
+FP: 5606
+Accuracy: 0.438 
+Sensitivity: 0.833 
+Specificity: 0.196 
+Precision: 0.388 

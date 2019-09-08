@@ -1,0 +1,10 @@
+b8:8a:60:97:96:2c
+192.168.1.91
+
+/test.php 
+normal
+b8:8a:60:97:96:2c
+192.168.1.91
+
+/test.php username=wsws&password=DROP+TABLE&ok=Dang+Nhap
+anomalous

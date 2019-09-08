@@ -1,0 +1,660 @@
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/login.php
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/favicon.ico
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/login.php
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/index.php
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/dvwa/js/add_event_listeners.js
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/sqli/
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/sqli/?id=1&Submit=Submit&user_token=0abdaf8415535766bcd8163c27c70f99
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/sqli/?id=%’+or+0=0+union+select+null,+version()+#&Submit=Submit&user_token=dd36558dd702a7169a683de7c43fffa6
+anomalous
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/xss_r/
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/xss_r/?name=<script>alert(document.cookie);</script>&user_token=0a01eef7e50fa1d507b12634c81fa014
+anomalous
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/exec/
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/exec/
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/html/css/taglib/captcha.css?browserId=other&themeId=08gulona_WAR_08gulonatheme&languageId=en_US&b=6102&t=1468211466000
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-quy-pham-phap-luat?p_auth=PJDFRWLY&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=327070
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/html/css/taglib/diff_html.css?browserId=other&themeId=08gulona_WAR_08gulonatheme&languageId=en_US&b=6102&t=1468211466000
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-trung-uong?p_auth=goB2L4yj&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=322919
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/html/css/taglib/header.css?browserId=other&themeId=08gulona_WAR_08gulonatheme&languageId=en_US&b=6102&t=1468211466000
+normal
+null
+null
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+/stp//followLucene.do
+normal
+null
+null
+serpstatbot/1.0 (advanced backlink tracking bot; http://serpstatbot.com/; abuse@serpstatbot.com)
+/ubnd-stg/4/469/37057/273276/Tin-so-nganh/ubnd-stg/4/467/63509/Soc-Trang-chung-suc-xay-dung-nong-thon-moi/
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-quy-pham-phap-luat?p_auth=f2bI7UOm&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=358296
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/html/css/taglib/preview.css?browserId=other&themeId=08gulona_WAR_08gulonatheme&languageId=en_US&b=6102&t=1468211466000
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/index.php?nv=news&op=Ban-tin/Phat-huy-dan-chu-dai-dien-trong-qua-trinh-bau-cu-dai-bieu-Quoc-hoi-khoa-XIV-va-dai-bieu-Hoi-dong-nhan-dan-cac-cap-nhiem-ky-2016-2021-995
+normal
+null
+null
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+/van-ban-hoi-nghi?p_auth=qEUYZG91&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=94819
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/html/css/taglib/ratings.css?browserId=other&themeId=08gulona_WAR_08gulonatheme&languageId=en_US&b=6102&t=1468211466000
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/he-thong-van-ban?p_auth=i17z59J4&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=323241
+normal
+null
+null
+serpstatbot/1.0 (advanced backlink tracking bot; http://serpstatbot.com/; abuse@serpstatbot.com)
+/ubnd-stg/4/469/54333/285793/Tin-huyen--thi-xa--thanh-pho/ubnd-stg/4/467/63509/Soc-Trang-chung-suc-xay-dung-nong-thon-moi/
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/html/css/taglib/search_iterator.css?browserId=other&themeId=08gulona_WAR_08gulonatheme&languageId=en_US&b=6102&t=1468211466000
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-trung-uong?p_auth=sx6p5Kar&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=359346
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/wps/portal/bqlckcn/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwN_yzA3A09HJ3MPf2dfI18PA_2CbEdFAOz0boU!/?PC_7_8AEKCI930GV1F0IQO674U22P31_WCM_CONTEXT=/wps/wcm/connect/bqlckcn/bqlsite/trangchu/tin tuc su kien/tin thoi su/ctybroadpeakthanhlapcdcs&WCM_PI=1&WCM_PI=1&WCM_Page.fa014380441a2bb58a90ffc8929b7afb=3
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/08-gulona-theme/css/forms.css?browserId=other&themeId=08gulona_WAR_08gulonatheme&languageId=en_US&b=6102&t=1471491350000
+normal
+null
+null
+Apple-iPad6C4/1605.227
+/servlet/traveler/Microsoft-Server-ActiveSync?User=nbnhiem&DeviceId=P680O8IHBD19NERK4QR3FFG2Q0&DeviceType=iPad&Cmd=Ping
+normal
+null
+null
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+/stp//followLucene.do
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/cas/login?service=http://motcua.sonoivu.soctrang.gov.vn/c/portal/login?p_l_id=1173&redirect=%2Fin%2Fxu-ly-thay
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-quy-pham-phap-luat?p_auth=KeJ0qGXI&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=323145
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/08-gulona-theme/css/extras.css?browserId=other&themeId=08gulona_WAR_08gulonatheme&languageId=en_US&b=6102&t=1471491350000
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/cas/login?service=http://motcua.trande.soctrang.gov.vn/c/portal/login;jsessionid=AC4CE4C9C2D8F175F4C4FCDB6D33B9B6?redirect=%2Fpl%2Fdanh-muc-ket-qua-xu-ly-ho-so&p_l_id=299981
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/combo/?browserId=other&minifierType=&languageId=en_US&b=6102&t=1468212126000&p=/html/js&m=/aui/widget-base/assets/skins/sam/widget-base.css
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/-/thong-bao-ve-quyen-loi-nha-tai-tro-le-hoi-ooc-om-boc-ua-ghe-ngo-tinh-soc-trang-nam-2016?inheritRedirect=true&redirect=/van-ban-le-hoi?_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=23509&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&p_auth=2006NVgg&p_p_col_count=1&p_p_col_id=column-1&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal
+normal
+null
+null
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+/van-ban-hoi-nghi?p_auth=eu9NM803&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=94778
+normal
+null
+null
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+/soyte/1299/32713/63758/HANH-NGHE-DUOC---MY-PHAM/
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/robots.txt
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/combo/?browserId=other&minifierType=&languageId=en_US&b=6102&t=1468212126000&p=/html/js&m=/liferay/language.js&m=/liferay/search_container.js
+normal
+null
+null
+curl/7.3.2
+/GponForm/diag_Form?style/
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwOL4GAnA08TRwsfvxBDRxNXA_2CbEdFAHq6-KI!/?PC_7_8AEKCI9308SSB0I4A8LNT1A491_WCM_CONTEXT=/wps/wcm/connect/web content/soctrangsite/trangchu/tintucsukien/khoahockythuat/strangpdaden&WCM_PI=1&WCM_PI=1&WCM_Page.fc01f2804ff76e3daa09ee9dd6a2bf4d=16
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-chi-ao-ieu-hanh-ve-cchc?p_auth=K2ERWIf9&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=232058
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-image/1.0; +http://help.coccoc.com/searchengine)
+/cas/images/slide/h2.png;jsessionid=704D309D171F89051C3028F65ED98244
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/he-thong-van-ban?p_auth=xbBTaAJx&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=324553
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-le-hoi?p_auth=mtjreh3i&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=139541
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwOL4GAnA08TRwsfvxBDR2MXA_2CbEdFANe4Sg4!/?PC_7_8AEKCI9308SSB0I4A8LNT1AVD5_WCM_CONTEXT=/wps/wcm/connect/sotaichinh/sotaichinh/vanbanquyphamphapluat/trunguongvb/thongtubtc/tt1692015btc&WCM_PI=1&WCM_Page.fc01f2804ff76e3daa09ee9dd6a2bf4d=3
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/hethongvanban?p_auth=qV38ZCZd&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=56389
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/van-ban-quy-pham-phap-luat?_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=324403&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&p_auth=pvMRxsr6&p_p_col_count=1&p_p_col_id=column-1&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal
+normal
+null
+null
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+/stp//followLucene.do
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/robots.txt
+normal
+null
+null
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+/soyte/1299/32713/55360/Tieu-su-tom-tat--nhiem-vu-lanh-dao/
+normal
+null
+null
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+/soyte/1299/32715/58922/281987/Quan-ly-duoc-va-my-pham/Thu-hoi-dau-goi--sua-rua-mat--kem-giu-am-kem-chat-luong.aspx
+normal
+null
+null
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+/fi/-/lanh-ao-huyen-long-phu-en-tham-cac-oi-ghe-ngo
+normal
+null
+null
+serpstatbot/1.0 (advanced backlink tracking bot; http://serpstatbot.com/; abuse@serpstatbot.com)
+/ubnd-stg/4/469/2258/284884/Tin-tuc--su-kien/ubnd-stg/4/467/63509/Soc-Trang-chung-suc-xay-dung-nong-thon-moi/
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/sitemap.xml
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwOL4GAnA08TRwsfvxBDRy8DU_2CbEdFAOdXv_U!/?PC_7_8AEKCI9308SSB0I4A8LNT1AVT6_WCM_CONTEXT=/wps/wcm/connect/web content/soctrangsite/thutuchanhchinh/hoctapvalamtheotamguongdaoduchochiminh/taphuanchuyendelamtheobac&WCM_PI=1&WCM_Page.fc01f2804ff76e3daa09ee9dd6a2bf4d=13
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/index.php/tin-ho-t-d-ng-nganh/7503-h-i-th-o-v-n-d-ng-chinh-sach-d-m-b-o-phan-b-ngan-sach-d-a-phuong-cho-h-tr-mua-b-o-hi-m-y-t-va-d-ng-chi-tr-thu-c-arv
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/zh_TW/dang-ky-ho-so
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/he-thong-van-ban?_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=297076&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&p_auth=XBVp2f3q&p_p_col_count=1&p_p_col_id=column-1&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal
+normal
+null
+null
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+/stp//followLucene.do
+normal
+null
+null
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.12) Gecko/20080214 Firefox/2.0.0.12
+/
+normal
+null
+null
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+/ubnd-stg/4/469/63556/282341/Ket-qua-dau-thau/So-Thong-tin-va-Truyen-thong-tinh-Soc-Trang-thong-bao-ket-qua-trien-khai-mua-sam-tap-trung-dot-2-nam-2018-goi-thau-so-02--Mua-sam-may-vi-tinh-xach-tay--thuoc-du-toan--Mua-sam-tap-trung-dot-2-nam-2018--.aspx
+normal
+null
+null
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.12) Gecko/20080214 Firefox/2.0.0.12
+/
+normal
+null
+null
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.12) Gecko/20080214 Firefox/2.0.0.12
+/Default.aspx
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-trung-uong?p_auth=KcYG9xtY&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=360882
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/c/portal/login;jsessionid=8DCDE3D066119FA085D6A525179D81C1?redirect=/zh_TW/dang-ky-ho-so&p_l_id=307622
+normal
+null
+null
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.12) Gecko/20080214 Firefox/2.0.0.12
+/Default.aspx?sname=ubnd-stg&sid=4&pageid=468
+anomalous
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/-/thong-bao-ve-quyen-loi-nha-tai-tro-le-hoi-ooc-om-boc-ua-ghe-ngo-tinh-soc-trang-nam-2016?inheritRedirect=true&redirect=/van-ban-le-hoi?_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=23509&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&p_auth=3Ng3WGIG&p_p_col_count=1&p_p_col_id=column-1&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/wps/portal/vpddbqhvahdnd/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwODgFALA09jN88gY2Mjg-BQc_2CbEdFANhcNNE!/?PC_7_8AEKCI9300PU80I3FIR3320S12_WCM_CONTEXT=/wps/wcm/connect/sotaichinh/sotaichinh/vanbanquyphamphapluat/trunguongvb/thongtubtc/tt1242016btc&WCM_PI=1&WCM_PI=1&WCM_Page.3b32b5004c3217329500bd10897fc077=3
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/he-thong-van-ban?_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=321916&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&p_auth=fVvdkSzh&p_p_col_count=1&p_p_col_id=column-1&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/cas/login?service=http://motcua.kcn.soctrang.gov.vn/c/portal/login?p_l_id=396259&redirect=%2Fquan-ly-ho-so
+normal
+null
+null
+serpstatbot/1.0 (advanced backlink tracking bot; http://serpstatbot.com/; abuse@serpstatbot.com)
+/ubnd-stg/4/469/2258/278352/Tin-tuc--su-kien/ubnd-stg/4/467/63509/Soc-Trang-chung-suc-xay-dung-nong-thon-moi/
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-quy-pham-phap-luat?p_auth=gtPdeMKd&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=339302
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-trung-uong?p_auth=IVDFtXXR&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=349349
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/robots.txt
+normal
+null
+null
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+/stp//followLucene.do
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/robots.txt
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mDefault.aspx?sname=sgtvt&sid=1289&pageid=2577&catid=62294&id=290247&catname=Lich-to-chuc-dao-tao--sat-hach&title=Lich-thi-mo-to--o-to-thang-06-nam-2019
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/UITopMenuBar/Default.css
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/Default.aspx?sname=snnptnt&sid=1282&pageid=30591&catid=53920&id=290348&catname=Quyet-dinh-cong-bo-Thu-tuc-hanh-chinh&title=Quyet-dinh-1439-QD-UBND-ngay-24-5-2019-cua-Chu-tich-UBND-tinh-Soc-Trang-Ve-viec-cong-bo-thu-tuc-hanh-chinh-moi-ban-hanh--linh-vuc-Lam-nghiep-thuoc-tham-quyen-giai-quyet-cua-So-Nong-nghiep-va-Phat-trien-nong-thon-tinh-Soc-Trang
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/Default.css
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/UIArticleChildTabList/Default.css
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mScripts/jQuery/jquery.js
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mScripts/jQuery/jquery-ui.min.js
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/UIArticleDetail/Default.css
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mScripts/Lib/configDialog.js
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/UIAdvertisement/Default1.css
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mScripts/Lib/Personalization.js
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mDesktopModule/UIAdvertisement/Advertisement.js
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mDesktopModule/UITopMenuBar/TopMenuBar.js
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/SiteFolders/sgtvt/4725/banner/banner-mobile.png
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/UITopMenuBar/Images/list2.png
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/UIArticleChildTabList/Images/point.png
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/UITopMenuBar/Images/list3.png
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/mThemes/sgtvt/UITopMenuBar/Images/bg.png
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/ErrorRequest.htm?aspxerrorpath=/Default.aspx
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/ubnd-stg/4/469/57741/283701/Asean/GIA-TRI-NOI-BAT-CUA-ASEAN-SAU-50-NAM-LA-TINH-THAN-CONG-DONG.aspx
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/he-thong-van-ban?_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=295284&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&p_auth=h7amWO5m&p_p_col_count=1&p_p_col_id=column-1&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal
+normal
+null
+null
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+/stp//followLucene.do
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/htrande/1283/30648/54058/287668/Van-hoa--xa-hoi/Hoi-nghi-tuyen-truyen-chinh-sach-bao-hiem-xa-hoi-tu-nguyen-va-BHYT-ho-gia-dinh-.aspx
+normal
+null
+null
+curl/7.3.2
+/GponForm/diag_Form?style/
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwOL4GAnA08TRwsfvxBDRxNXA_2CbEdFAHq6-KI!/?PC_7_8AEKCI9308SSB0I4A8LNT1A491_WCM_CONTEXT=/wps/wcm/connect/web content/soctrangsite/trangchu/thongtincanbiet/lichcupdien/ngay23thang07&WCM_PI=1&WCM_PI=1&WCM_Page.fc01f2804ff76e3daa09ee9dd6a2bf4d=18
+normal
+null
+null
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/39.0.175034278 Mobile/15B202 Safari/604.1
+/SiteFolders/sgtvt/QLVL-PT-NL/LichT6.pdf
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/cas/login?service=http://phutan.chauthanh.soctrang.gov.vn/c/portal/login;jsessionid=8DCDE3D066119FA085D6A525179D81C1?redirect=%2Fzh_TW%2Fdang-ky-ho-so&p_l_id=307622
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-trung-uong?p_auth=jPoVvIhK&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=359196
+normal
+null
+null
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+/van-ban-hoi-nghi?p_auth=nDgOLBew&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=94773
+normal
+null
+null
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+/mDefault.aspx?sname=sgtvt&sid=1289&pageid=2577&catid=62294&id=290247&catname=Lich-to-chuc-dao-tao--sat-hach&title=Lich-thi-mo-to--o-to-thang-06-nam-2019
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/cas/login?service=http://motcua.soyte.soctrang.gov.vn/c/portal/login?p_l_id=1124&redirect=%2Ffr%2Fquan-ly-ho-so-huy
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/-/tinh-soc-trang-cong-tac-chi-ao-ieu-hanh-cai-cach-hanh-chinh-nam-2018-xep-thu-08-63-tinh-thanh-pho?inheritRedirect=true
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwOL4GAnA08TRwsfvxBDRxNXA_2CbEdFAHq6-KI!/?PC_7_8AEKCI9308SSB0I4A8LNT1A491_WCM_CONTEXT=/wps/wcm/connect/web content/soctrangsite/trangchu/tintucsukien/tainguyenmoitruong/khoachxxujly&WCM_PI=1&WCM_Page.fc01f2804ff76e3daa09ee9dd6a2bf4d=13
+normal
+null
+null
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+/wps/portal/soldtbxh/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLR1dvZ09LYwN_C0MDA083Lw9_f0cXA18zM_2CbEdFACZMnyI!/
+normal
+null
+null
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+/mDefault.aspx?sname=sgtvt&sid=1289&pageid=2577&catid=62294&id=290247&catname=Lich-to-chuc-dao-tao--sat-hach&title=Lich-thi-mo-to--o-to-thang-06-nam-2019
+normal
+null
+null
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+/stp//followLucene.do
+normal
+null
+null
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+/Default.aspx?sname=sgtvt&sid=1289&pageid=32034
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-quy-pham-phap-luat?p_auth=FT2t3DXf&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=340202
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/Default.aspx?sname=snnptnt&sid=1282&pageid=30591&catid=53920&id=290348&catname=Quyet-dinh-cong-bo-Thu-tuc-hanh-chinh&title=Quyet-dinh-1439-QD-UBND-ngay-24-5-2019-cua-Chu-tich-UBND-tinh-Soc-Trang-Ve-viec-cong-bo-thu-tuc-hanh-chinh-moi-ban-hanh--linh-vuc-Lam-nghiep-thuoc-tham-quyen-giai-quyet-cua-So-Nong-nghiep-va-Phat-trien-nong-thon-tinh-Soc-Trang
+normal
+null
+null
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+/mDefault.aspx?sname=sgtvt&sid=1289&pageid=2577&catid=62294&id=290247&catname=Lich-to-chuc-dao-tao--sat-hach&title=Lich-thi-mo-to--o-to-thang-06-nam-2019
+normal
+null
+null
+serpstatbot/1.0 (advanced backlink tracking bot; http://serpstatbot.com/; abuse@serpstatbot.com)
+/ubnd-stg/4/469/2258/289247/Tin-tuc--su-kien/ubnd-stg/4/467/63509/Soc-Trang-chung-suc-xay-dung-nong-thon-moi/
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/he-thong-van-ban?p_auth=R4oNoI0k&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=323228
+normal
+null
+null
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+/mDefault.aspx?sname=sgtvt&sid=1289&pageid=2577&catid=62294&id=290247&catname=Lich-to-chuc-dao-tao--sat-hach&title=Lich-thi-mo-to--o-to-thang-06-nam-2019
+normal
+null
+null
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+/Default.aspx?sname=sgtvt&sid=1289&pageid=32034
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/van-ban-trung-uong?p_auth=gQH5xKsc&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=349349
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/home?p_p_auth=36TIkHe7&p_p_id=49&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_49_struts_action=/my_sites/view&_49_groupId=20182&_49_privateLayout=false
+normal
+null
+null
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+/van-ban-hoi-nghi?p_auth=kJtp38vK&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=94819
+normal
+null
+null
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+/combo/?browserId=other&minifierType=&languageId=ca_ES&b=6204&t=1480922774000&/html/js/aui/widget-base/assets/skins/sam/widget-base.css
+normal
+null
+null
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+/stp//followLucene.do
+normal
+null
+null
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+/he-thong-van-ban?p_auth=XYiYZiS2&p_p_id=cchcutil_WAR_cchcutilportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_cchcutil_WAR_cchcutilportlet_javax.portlet.action=downloadFile&_cchcutil_WAR_cchcutilportlet_cchc_taptindinhkemId=335062
+normal
+null
+null
+serpstatbot/1.0 (advanced backlink tracking bot; http://serpstatbot.com/; abuse@serpstatbot.com)
+/ubnd-stg/4/469/2258/282261/Tin-tuc--su-kien/ubnd-stg/4/467/63509/Soc-Trang-chung-suc-xay-dung-nong-thon-moi/
+normal

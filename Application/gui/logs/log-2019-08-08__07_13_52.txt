@@ -1,0 +1,65 @@
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/login.php
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/favicon.ico
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/login.php
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/index.php
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/dvwa/js/add_event_listeners.js
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/sqli/
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/sqli/?id=1&Submit=Submit&user_token=0abdaf8415535766bcd8163c27c70f99
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/sqli/?id=%’+or+0=0+union+select+null,+version()+#&Submit=Submit&user_token=dd36558dd702a7169a683de7c43fffa6
+anomalous
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/xss_r/
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/xss_r/?name=<script>alert(document.cookie);</script>&user_token=0a01eef7e50fa1d507b12634c81fa014
+anomalous
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/exec/
+normal
+null
+192.168.111.1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+/DVWA-master/vulnerabilities/exec/
+normal

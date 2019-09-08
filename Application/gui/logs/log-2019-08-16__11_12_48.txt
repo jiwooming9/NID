@@ -1,0 +1,10 @@
+00:50:56:c0:00:08
+192.168.111.1
+
+/DVWA-master/vulnerabilities/sqli/ 
+normal
+00:50:56:c0:00:08
+192.168.111.1
+
+/DVWA-master/vulnerabilities/sqli/?id=%’+or+0=0+union+select+null,+version()+#&Submit=Submit&user_token=e0c3be0f566802253db4bfcd3e77a15c 
+anomalous

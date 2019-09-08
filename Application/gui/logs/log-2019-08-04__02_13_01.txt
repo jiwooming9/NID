@@ -1,0 +1,10 @@
+00:0c:29:59:07:22
+192.168.111.129
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/GponForm/LoginForm XWebPageName=index&username=admin&password=asdasda
+normal
+00:0c:29:59:07:22
+192.168.111.129
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/success.txt 
+normal

@@ -1,0 +1,25 @@
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sdasd&password=sdasd&Login=Login&user_token=d84dcf5fcba1280585606a91e895bc5f
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sdasd&password=sdasd&Login=Login&user_token=d84dcf5fcba1280585606a91e895bc5f
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal

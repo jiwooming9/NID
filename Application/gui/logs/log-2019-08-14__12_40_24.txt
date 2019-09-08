@@ -1,0 +1,135 @@
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sxs&password=sxs&Login=Login&user_token=5bec33cf28d513503a828f313fd6eb31
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sxs&password=sxs&Login=Login&user_token=5bec33cf28d513503a828f313fd6eb31
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sxsxsxs&password=xsxsx&Login=Login&user_token=65afb812e329152415f7a9dd0d77c29c
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sxsxsxs&password=xsxsx&Login=Login&user_token=65afb812e329152415f7a9dd0d77c29c
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
+null
+null
+
+/DVWA-master/login.php username=sxsx&password=sxsxs&Login=Login&user_token=e359a051e695c6eb95d222cbc0479276
+normal
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sxsxss&password=sxsx&Login=Login&user_token=fce45f49734ed47f5f808406a5faa35d
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sxsxss&password=sxsx&Login=Login&user_token=fce45f49734ed47f5f808406a5faa35d
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=wdwd&password=qwdq&Login=Login&user_token=7fb7d8bf2b4a00a7ac51ab6dc4b7472b
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=wdwd&password=qwdq&Login=Login&user_token=7fb7d8bf2b4a00a7ac51ab6dc4b7472b
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+
+/DVWA-master/login.php 
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sdasd&password=sdasd&Login=Login&user_token=d84dcf5fcba1280585606a91e895bc5f
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php username=sdasd&password=sdasd&Login=Login&user_token=d84dcf5fcba1280585606a91e895bc5f
+normal
+null
+null
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+/DVWA-master/login.php 
+normal
