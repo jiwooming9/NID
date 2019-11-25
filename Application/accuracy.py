@@ -11,8 +11,7 @@ word_features = joblib.load('models/word_features_compressed.pkl')
 
 def extract_features(document):
     """
-        checks if the passed list of words
-        is contained in the list 'word_features'
+        kiem tra cac tu voi tap word_features
     """
     document_words = set(document)
     features = {}
@@ -25,7 +24,7 @@ def extract_features(document):
 
 def read_in_chunks(file_object, chunk_size=1024):
     """
-        Reading files in chucks of 1KB each
+        Doc theo khoi 1KB
     """  
     while True:
         data = file_object.read(chunk_size)
@@ -33,17 +32,16 @@ def read_in_chunks(file_object, chunk_size=1024):
             break
         yield data
 
-# parameters for accuracy
-TP=FN=TN=FP=0
 
-#open files for normal
+TP=FN=TN=FP=0
+#phan loai cho Normal
 try:
     normal_test_classified = open('test_classified/Our_Normal_test_classified.txt','w')
     nor = open('../Dataset/Datasets-after-feature-extraction/Naives-Bayes/testing/test1_normalCombinedWordsss.txt')
 except Exception as e:
     print e
 
-#classify normal test dataset
+
 for piece in read_in_chunks(nor):
     piece=piece.lower()
     lines=piece.split('\n')
@@ -59,14 +57,14 @@ nor.close()
 print "TP: %d"%TP
 print "FN: %d"%FN
 
-#open files for Anomalous
+#phan loai cho Anomalous
 try:
     ano = open('../Dataset/Datasets-after-feature-extraction/Naives-Bayes/testing/test1_anomalousCombinedWordsss.txt')
     ano_test_classified = open('test_classified/Our_Anomalous_test_classified.txt','w')
 except Exception as e:
     print e
 
-#classify anomalous tets datasets
+
 for piece in read_in_chunks(ano):
     piece=piece.lower()
     lines=piece.split('\n')

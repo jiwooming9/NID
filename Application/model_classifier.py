@@ -3,7 +3,7 @@ from sklearn.externals import joblib
 from nltk import classify
 from nltk.classify.naivebayes import NaiveBayesClassifier
 
-# open training dataset files
+
 try:
     ano = open('../Dataset/Datasets-after-feature-extraction/Naives-Bayes/training/train1_anomalousCombinedWordsss.txt')
     nor = open('../Dataset/Datasets-after-feature-extraction/Naives-Bayes/training/train1_normalCombinedWordsss.txt')
@@ -13,7 +13,7 @@ except Exception as e:
 
 def read_in_chunks(file_object, chunk_size=1024):
     """
-        Reading files in chucks of 1KB each
+        Doc theo khoi 1KB
     """
     while True:
         data = file_object.read(chunk_size)
@@ -21,18 +21,10 @@ def read_in_chunks(file_object, chunk_size=1024):
             break
         yield data
 
-"""
-    constains the training data
-    is a list containing tuple of list and label
-    list is set of words from each sentence
-    label is class of sentence
-"""
 training=[]
 
 """
-    make single training sets
-    provide label to each http header payload
-    as anomalous or normal
+    Gan nhan cho tung payload
 """
 for piece in read_in_chunks(ano):
     lines=piece.split('\n')
@@ -46,19 +38,13 @@ for piece in read_in_chunks(nor):
         words_separated=[e.lower() for e in words.split()]
         training.append((words_separated,'normal'))
 
-"""
-    third argument is used for compression 
-    0-9, higher number gives more compression
-    but processing is slow
-    3 is a good compromise
-"""
+
 #print training
 joblib.dump(training,'models/training_compressed.pkl',0)
 
 def get_words_in_tweets(training):
     """
-        makes single list of words from training
-        single list of all the http header payload
+        tach tu trong payload
     """
     all_words = []
     for (words, sentiment) in training:
@@ -68,10 +54,7 @@ def get_words_in_tweets(training):
 
 def get_word_features(wordlist):
     """
-        gives the frequency count of
-        each word from the dataset
-        But, here we return only the keys
-        i.e. only the word non-repeating words
+        tra ve cac tu co tan suat xuat hien nhieu
     """
     wordlist = FreqDist(wordlist)
     #print wordlist.keys(),"------->",wordlist.values()
@@ -89,8 +72,7 @@ word_features=joblib.load('models/word_features_compressed.pkl')
 
 def extract_features(document):
     """
-        checks if the passed list of words
-        is contained in the list 'word_features'
+        so sanh cac tu trong training voi word_features
     """
     document_words = set(document)
     features = {}

@@ -15,10 +15,9 @@ import threading
 # load the models
 classifier = joblib.load('models/traininga.pkl')
 
-# usual kinds of request and their numbering in order
+# request cua HTTP
 METHODS = ["GET", "POST", "PUT", "HEAD", "DELETE", "TRACE", "CONNECT", "OPTIONS"]
 
-# store key value pair of HTTP payload
 OBTAINED_PAYLOAD = {}
 count = 0
 
@@ -54,7 +53,7 @@ def classify_live_data(load, mac_src, ip_src, add_line, lognum):
     global STOP_EV
     global countsniff
     method = OBTAINED_PAYLOAD['Method']
-    # finding User-Agent
+    #  User-Agent
     try:
         srt = load.index('User-Agent:')
     except ValueError:
@@ -165,7 +164,7 @@ def classify_live_nginx(load, mac_src, ip_src, add_line, lognum, count):
     global input_file
     input_file.flush()
     global STOP_EV
-    # finding URL
+    # URL
     try:
         start=load.index(' /')
     except ValueError:
@@ -175,7 +174,7 @@ def classify_live_nginx(load, mac_src, ip_src, add_line, lognum, count):
             end=load.index(' HTTP/')
         except ValueError:
             end=load.index('" bytes_sent')
-        # finding UA
+        # UA
         try:
             star=load.index('user_agent=')
         except ValueError:

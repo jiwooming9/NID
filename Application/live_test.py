@@ -15,10 +15,7 @@ word_features = joblib.load('models/word_features_compressed.pkl')
 
 def extract_features(document):
     """
-        checks if the passed list of words
-        is contained in the list 'word_features'
-        true if yes
-        false if no
+        kiem tra cac tu voi tap word_features
     """
     document_words = set(document)
     features = {}
@@ -30,7 +27,7 @@ def extract_features(document):
 
 def find_Useragent(load,value,n=3):
     """
-        find string between User-agent and third raw string raw newline
+        tim dong giua User-agent va dong du lieu raw thu 3
     """
     start = load.find(value)
     while start >= 0 and n > 1:
@@ -39,73 +36,63 @@ def find_Useragent(load,value,n=3):
     return start
 
 def isHttp(packet):
-    #check if it a valid http request
+    #check http
     packet = str(packet)
     return "HTTP" in packet and any(i in packet for i in methods)
 
 def nthofchar(s, c, n):
-    # use of regular expression to break http load
+    # tim payload cua http
     regex=r'^((?:[^%s]*%s){%d}[^%s]*)%s(.*)' % (c,c,n-1,c,c)
     l = ()
     m = re.match(regex, s)
     if m: l = m.group(2)
     return l
 
-# usual kinds of request and their numbering in order
+# request HTTP 
 methods= ["GET","POST","DELETE","HEAD","PUT","TRACE","CONNECT"]
 
-#store key value pair of HTTP payload 
+
 dictionary = {}
 
-#file to store data offline(logs)
+#luu du lieu vao log
 moment=time.strftime("%Y-%b-%d__%H_%M_%S",time.localtime())
 f = open('logs/log-'+moment+'.txt', 'w')
 
 def classify(load,mac_src,ip_src):
-    """
-    Classify the live http header payloads
-    finding User-Agent
-    """
     try:
         srt=load.index('User-Agent:')
     except ValueError:
         srt = 0
     if srt:
         finish= find_Useragent(load,"\r\n")
-        #finding URL
+        #URL
         start=load.index(' ')
         if start:
             end=load.index('HTTP')
-            
-            # Regular expresssion to substitute unwanted characters from http loadjjj
+            # tach ki tu dac biet tu payload
             p=re.compile('\+|\=|\&')
-            #if it is a get request
             if dictionary['Method']=='0':
-                # take the header title payload
+                # GET co payload o tieu de
                 try:
-                    # classify the load after removing & + = etc and substitute them by space
                     classed=classifier.classify(extract_features(str(p.sub(' ',load[start+1:end])).lower().split()))
                     print mac_src + "\n"+ ip_src + "\n" + str(load[srt:finish])+ "\n" + urllib.unquote(str(load[start+1:end]))+ "\n"+ classed
-                    # write source ip adress, User-agent and Payload with class respectively to log
                     print >>f,mac_src + "\n" + ip_src + "\n" + str(load[srt:finish])
                     print >>f,urllib.unquote(str(load[start+1:end])) + "\n" + classed
                 except ValueError:
                     return ""
 	
             elif dictionary['Method']!='0':
-                #get to the last line of packet
+                # phuong thuc khac co payload o cuoi
                 reg= load[start+1:end]+nthofchar(load,'\r\n',load.count('\r\n'))
-                # classify the load after removing & + = etc and substitute them by space
                 classed=classifier.classify(extract_features(p.sub(' ',str(reg).lower()).split()))
                 print mac_src + "\n" + ip_src + "\n" + str(load[srt:finish]) + "\n" + urllib.unquote(str(reg)) + "\n"+ classed 
-                # write source ip adress, User-agent and Payload with class respectively to log
                 print >>f,mac_src + "\n" + ip_src + "\n" + str(load[srt:finish])
                 print >>f,urllib.unquote(str(reg)) + "\n" + classed
 	else:
             pass
 	
 def pfunc(packet):
-    #pass the request of it valid http header
+    #loc HTTP request
     if isHttp(packet):
         if IP in packet:
             ip_src=packet[IP].src
